@@ -1,0 +1,2135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress SDK\n"
+"Report-Msgid-Bugs-To: https://github.com/Freemius/wordpress-sdk/issues\n"
+"PO-Revision-Date: 2024-12-30 04:48+0000\n"
+"Last-Translator: Jasontopia\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: get_text_inline;fs_text_inline;fs_echo_inline;"
+"fs_esc_js_inline;fs_esc_attr_inline;fs_esc_attr_echo_inline;"
+"fs_esc_html_inline;fs_esc_html_echo_inline;get_text_x_inline:1,2c;"
+"fs_text_x_inline:1,2c;fs_echo_x_inline:1,2c;fs_esc_attr_x_inline:1,2c;"
+"fs_esc_js_x_inline:1,2c;fs_esc_js_echo_x_inline:1,2c;fs_esc_html_x_inline:1,"
+"2c;fs_esc_html_echo_x_inline:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"POT-Creation-Date: 2024-12-30 04:46+0000\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+msgid " %s to access version %s security & feature updates, and support."
+msgstr "%s以访问版本%s的安全和功能更新以及支持。"
+
+msgid ""
+" The %s's %sdownload link%s, license key, and installation instructions have "
+"been sent to %s. If you can't find the email after 5 min, please check your "
+"spam box."
+msgstr "%s 的 %s 下载链接 %s、许可证密钥和安装说明已发送到 %s。如果您在 5 分钟后找不到该电子邮件，请检查您的垃圾邮件箱。"
+
+msgid ""
+" The paid version of %1$s is already installed. Please activate it to start "
+"benefiting the %2$s features. %3$s"
+msgstr "已安装%1$s的付费版本。请激活它以开始使用%2$s功能。%3$s公司"
+
+msgctxt "\"The <product_label>\", e.g.: \"The plugin\""
+msgid "The %s's"
+msgstr "%s 的"
+
+msgid ""
+"%1$s has been placed into safe mode because we noticed that %2$s is an exact "
+"copy of %3$s."
+msgstr "%1$s 已进入安全模式，因为我们注意到 %2$s 是 %3$s 的精确副本。"
+
+msgid ""
+"%1$s will immediately stop all future recurring payments and your %2$s plan "
+"license will expire in %3$s."
+msgstr "%1$s将立即停止所有未来的定期付款，并且您的%2$s计划许可证将在%3$s过期。"
+
+msgid ""
+"%1$s will immediately stop all future recurring payments and your %s plan "
+"license will expire in %s."
+msgstr "%1$s将立即停止所有未来的定期付款，并且您的%s计划许可证将在%s过期。"
+
+msgctxt "%s - plugin name. As complete \"PluginX\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "立即完成”%s“激活"
+
+msgid "%s Add-on was successfully purchased."
+msgstr "已成功购买%s加载项。"
+
+msgid "%s Installs"
+msgstr "%s安装"
+
+msgid "%s Licenses"
+msgstr "%s许可证"
+
+msgid "%s ago"
+msgstr "%s以前"
+
+msgid "%s and its add-ons"
+msgstr "%s及其附加组件"
+
+msgid ""
+"%s automatic security & feature updates and paid functionality will keep "
+"working without interruptions until %s (or when your license expires, "
+"whatever comes first)."
+msgstr "%s 自动安全和功能更新以及付费功能将继续运行而不会中断，直到 %s（或当您的许可证到期时，无论先到者）。"
+
+msgid "%s commission when a customer purchases a new license."
+msgstr "%s客户购买新许可证时收取佣金。"
+
+msgid ""
+"%s free trial was successfully cancelled. Since the add-on is premium only "
+"it was automatically deactivated. If you like to use it in the future, "
+"you'll have to purchase a license."
+msgstr "%s免费试用已成功取消。因为附加组件是高级的，所以它被自动停用。如果你想在将来使用它，你必须购买许可证。"
+
+msgid ""
+"%s is a premium only add-on. You have to purchase a license first before "
+"activating the plugin."
+msgstr "%s是一款仅限高级的附加组件。在激活插件之前，必须先购买许可证。"
+
+msgid "%s is my client's email address"
+msgstr "%s 是我客户的电子邮件地址"
+
+msgid "%s is my email address"
+msgstr "%s 是我的电子邮件地址"
+
+msgid "%s is the new owner of the account."
+msgstr "%s是帐户的新主人。"
+
+msgid "%s minimum payout amount."
+msgstr "%s最低付款金额。"
+
+msgid "%s or higher"
+msgstr "%s或更高"
+
+msgid "%s rating"
+msgstr "%s级"
+
+msgid "%s ratings"
+msgstr "%s评级"
+
+msgid "%s sec"
+msgstr "%s秒"
+
+msgid "%s star"
+msgstr "%s星"
+
+msgid "%s stars"
+msgstr "%s星"
+
+msgid "%s time"
+msgstr "%s时间"
+
+msgid "%s times"
+msgstr "%s年代"
+
+msgid "%s to access version %s security & feature updates, and support."
+msgstr "%s以访问版本%s的安全和功能更新以及支持。"
+
+msgid ""
+"%s tracking cookie after the first visit to maximize earnings potential."
+msgstr "%s首次访问后跟踪Cookie，以最大限度地提高收益潜力。"
+
+msgid "%s's paid features"
+msgstr "%s的付费功能"
+
+msgid ""
+"%sClick here%s to choose the sites where you'd like to activate the license "
+"on."
+msgstr "%s单击此处%s可选择要激活许可证的站点。"
+
+msgid ""
+"A confirmation email was just sent to %s. The email owner must confirm the "
+"update within the next 4 hours."
+msgstr "刚刚向 %s 发送了一封确认电子邮件。电子邮件所有者必须在接下来的 4 小时内确认更新。"
+
+msgid ""
+"A confirmation email was just sent to %s. You must confirm the update within "
+"the next 4 hours. If you cannot find the email, please check your spam "
+"folder."
+msgstr "刚刚向 %s 发送了一封确认电子邮件。您必须在接下来的 4 小时内确认更新。如果您找不到该电子邮件，请检查您的垃圾邮件文件夹。"
+
+msgid "API"
+msgstr "API"
+
+msgctxt "ASCII arrow left icon"
+msgid "&#x2190;"
+msgstr "&#x2190;"
+
+msgctxt "ASCII arrow right icon"
+msgid "&#x27a4;"
+msgstr "&#x27a4;"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Account Details"
+msgstr "帐户详细信息"
+
+msgid "Actions"
+msgstr "行动"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Activate %s"
+msgstr "激活%s"
+
+msgid "Activate %s Plan"
+msgstr "激活%s计划"
+
+msgid "Activate %s features"
+msgstr "激活%s功能"
+
+msgid "Activate Free Version"
+msgstr "激活免费版本"
+
+msgid "Activate License"
+msgstr "激活许可证"
+
+msgid "Activate license on all pending sites."
+msgstr "在所有挂起的站点上激活许可证。"
+
+msgid "Activate license on all sites in the network."
+msgstr "在网络中的所有站点上激活许可证。"
+
+msgid "Activate this add-on"
+msgstr "激活此加载项"
+
+msgid "Activated"
+msgstr "激活"
+
+msgid "Add Ons for %s"
+msgstr "%s的加载项"
+
+msgid "Add Ons of module %s"
+msgstr "模块%s的加载项"
+
+msgid "Add another domain"
+msgstr "添加另一个域"
+
+msgid "Add-On"
+msgstr "附加组件"
+
+msgid "Add-Ons"
+msgstr "附加组件"
+
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "加载项必须部署到WordPress.org或Freemius。"
+
+msgid "Address"
+msgstr "网址"
+
+msgid "Address Line %d"
+msgstr "地址行%d"
+
+msgid "Affiliate"
+msgstr "会员"
+
+msgid "Affiliation"
+msgstr "推广联盟"
+
+msgid "After your free %s, pay as little as %s"
+msgstr "免费%s后，只需支付%s"
+
+msgid "Agree & Activate License"
+msgstr "同意并激活许可证"
+
+msgid "All Requests"
+msgstr "所有请求"
+
+msgid "All Types"
+msgstr "所有类型"
+
+msgid "Allow & Continue"
+msgstr "允许并继续"
+
+msgid ""
+"Alternatively, you can skip it for now and activate the license later, in "
+"your %s's network-level Account page."
+msgstr "或者，您可以暂时跳过它，稍后在%s的网络级帐户页中激活许可证。"
+
+msgid "Amount"
+msgstr "数量"
+
+msgid ""
+"An automated download and installation of %s (paid version) from %s will "
+"start in %s. If you would like to do it manually - click the cancellation "
+"button now."
+msgstr "从%s自动下载并安装的%s（付费版本）将在%s中启动。如果要手动执行此操作，请单击“取消”按钮。"
+
+msgid "An unknown error has occurred while trying to set the user's beta mode."
+msgstr "尝试设置用户的测试模式时发生了未知错误。"
+
+msgid ""
+"An unknown error has occurred while trying to toggle the license's white-"
+"label mode."
+msgstr "尝试切换许可证的白标模式时发生未知错误。"
+
+msgid "An unknown error has occurred."
+msgstr "发生未知错误。"
+
+msgid ""
+"An update to a Beta version will replace your installed version of %s with "
+"the latest Beta release - use with caution, and not on production sites. You "
+"have been warned."
+msgstr "测试版的更新将用最新的测试版替换您安装的%s版本-请小心使用，不要在生产站点上使用。你被警告了。"
+
+msgid "Anonymous feedback"
+msgstr "匿名反馈"
+
+msgid "Apply on all pending sites."
+msgstr "在所有挂起的站点上应用。"
+
+msgid "Apply on all sites in the network."
+msgstr "应用于网络中的所有站点。"
+
+msgid "Apply to become an affiliate"
+msgstr "申请成为推广联盟"
+
+msgid "Are both %s and %s your email addresses?"
+msgstr "%s 和 %s 都是您的电子邮件地址吗？"
+
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "是否确实要删除所有Freemius数据？"
+
+msgid "Are you sure you want to proceed?"
+msgstr "确定要继续吗？"
+
+msgid ""
+"As we reserve 30 days for potential refunds, we only pay commissions that "
+"are older than 30 days."
+msgstr "由于我们保留30天的潜在退款，我们只支付超过30天的佣金。"
+
+msgid "Associate with the license owner's account."
+msgstr "与许可证所有者的帐户关联。"
+
+msgid "Auto installation only works for opted-in users."
+msgstr "自动安装仅适用于已选择的用户。"
+
+msgid "Auto renews in %s"
+msgstr "在%s中自动续订"
+
+msgid "Automatic Installation"
+msgstr "自动安装"
+
+msgid "Average Rating"
+msgstr "平均评级"
+
+msgid "Awesome"
+msgstr "真棒"
+
+msgid "Become an affiliate"
+msgstr "加入推广联盟"
+
+msgid "Beta"
+msgstr "测试版本"
+
+msgid "Billing"
+msgstr "开具账单"
+
+msgid "Billing & Invoices"
+msgstr "账单和发票"
+
+msgid "Blocking"
+msgstr "阻止"
+
+msgid "Blog ID"
+msgstr "博客ID"
+
+msgid "Body"
+msgstr "身体"
+
+msgid "Bundle Plan"
+msgstr "捆绑计划"
+
+msgid "Business name"
+msgstr "企业名称"
+
+msgid "Buy a license now"
+msgstr "立即购买许可证"
+
+msgid "Buy license"
+msgstr "购买许可证"
+
+msgid "By changing the user, you agree to transfer the account ownership to:"
+msgstr "通过更改用户，您同意将帐户所有权转让给："
+
+msgid "Can't find your license key?"
+msgstr "找不到您的许可证密钥？"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel %s & Proceed"
+msgstr "取消%s并继续"
+
+msgid ""
+"Cancel %s - I no longer need any security & feature updates, nor support for "
+"%s because I'm not planning to use the %s on this, or any other site."
+msgstr "取消%s-我不再需要任何安全和功能更新，也不需要%s的支持服务，因为我不打算在此或任何其他站点上使用%s。"
+
+msgid "Cancel %s?"
+msgstr "取消%s？"
+
+msgid "Cancel Installation"
+msgstr "取消安装"
+
+msgid "Cancel Subscription"
+msgstr "取消订阅"
+
+msgid "Cancel Trial"
+msgstr "取消试用"
+
+msgid "Cancelled"
+msgstr "取消"
+
+msgid "Cancelling %s"
+msgstr "正在取消%s"
+
+msgid "Cancelling %s..."
+msgstr "正在取消%s..."
+
+msgid "Cancelling the subscription"
+msgstr "取消订阅"
+
+msgid ""
+"Cancelling the trial will immediately block access to all premium features. "
+"Are you sure?"
+msgstr "取消试用将立即阻止使用所有高级功能。你确定吗？"
+
+msgid "Change License"
+msgstr "更改许可证"
+
+msgid "Change Ownership"
+msgstr "变更所有权"
+
+msgid "Change Plan"
+msgstr "变更计划"
+
+msgid "Change User"
+msgstr "更改用户"
+
+msgid "Checkout"
+msgstr "结帐"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Clear API Cache"
+msgstr "清除 API 缓存"
+
+msgid "Clear Updates Transients"
+msgstr "清除更新瞬态"
+
+msgid "Click here"
+msgstr "点击这里"
+
+msgid "Click here to use the plugin anonymously"
+msgstr "单击此处匿名使用插件"
+
+msgid "Click to see reviews that provided a rating of %s"
+msgstr "单击此处可查看评分为%s的评论"
+
+msgid "Click to view full-size screenshot %d"
+msgstr "单击此处可查看全尺寸屏幕截图%d"
+
+msgctxt "Clone resolution admin notice products list label"
+msgid "Products"
+msgstr "产品"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "Compatible up to"
+msgstr "兼容至"
+
+msgid "Contact"
+msgstr "联系方式"
+
+msgid "Contact Support"
+msgstr "联系支持"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "Contributors"
+msgstr "贡献者"
+
+msgid "Couldn't activate %s."
+msgstr "无法激活%s。"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Cron Type"
+msgstr "Cron类型"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Deactivate"
+msgstr "停用"
+
+msgid "Deactivate License"
+msgstr "停用许可证"
+
+msgid ""
+"Deactivating or uninstalling the %s will automatically disable the license, "
+"which you'll be able to use on another site."
+msgstr "停用或卸载%s将自动禁用许可证，您可以在其他站点上使用该许可证。"
+
+msgid ""
+"Deactivating your license will block all premium features, but will enable "
+"activating the license on another site. Are you sure you want to proceed?"
+msgstr "停用许可证将阻止所有高级功能，但将在其他站点上激活许可证。确定要继续吗？"
+
+msgid "Deactivation"
+msgstr "停用"
+
+msgid "Debug Log"
+msgstr "调试日志"
+
+msgid ""
+"Debug mode was successfully enabled and will be automatically disabled in 60 "
+"min. You can also disable it earlier by clicking the \"Stop Debug\" link."
+msgstr "调试模式已成功启用，将在60分钟以内自动禁用。您也可以通过单击“停止调试”链接提前禁用。"
+
+msgid "Delegate to Site Admins"
+msgstr "委派给站点管理员"
+
+msgid "Delete All Accounts"
+msgstr "删除所有帐户"
+
+msgid "Details"
+msgstr "细节"
+
+msgid "Disabling white-label mode"
+msgstr "禁用白标模式"
+
+msgid ""
+"Don't cancel %s - I'm still interested in getting security & feature updates,"
+" as well as be able to contact support."
+msgstr "不要取消%s-我仍然对获取安全和功能更新感兴趣，也可以联系支持人员。"
+
+msgid "Don't have a license key?"
+msgstr "没有许可证密钥？"
+
+msgid "Donate to this plugin"
+msgstr "捐赠给这个插件"
+
+msgid "Downgrading your plan"
+msgstr "降低您的计划"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download %s Version"
+msgstr "下载%s版本"
+
+msgid "Download Paid Version"
+msgstr "下载付费版本"
+
+msgid "Download the latest %s version"
+msgstr "下载最新的%s版本"
+
+msgid "Download the latest version"
+msgstr "下载最新版本"
+
+msgid "Downloaded"
+msgstr "下载"
+
+msgid ""
+"Due to the new %sEU General Data Protection Regulation (GDPR)%s compliance "
+"requirements it is required that you provide your explicit consent, again, "
+"confirming that you are onboard :-)"
+msgstr "由于新的%sEU通用数据保护条例（GDPR）%s的合规性要求，要求您再次明确表示同意，确认您已经加入：-）"
+
+msgid ""
+"Due to violation of our affiliation terms, we decided to temporarily block "
+"your affiliation account. If you have any questions, please contact support."
+msgstr "由于违反我们的推广联盟条款，我们决定暂时封锁您的附属帐户。如果您有任何问题，请联系支持人员。"
+
+msgid "Duplicate Website"
+msgstr "复制网站"
+
+msgid ""
+"During the update process we detected %d site(s) that are still pending "
+"license activation."
+msgstr "在更新过程中，我们检测到%d个网站仍在等待许可证激活。"
+
+msgid ""
+"During the update process we detected %s site(s) in the network that are "
+"still pending your attention."
+msgstr "在更新过程中，我们在网络中检测到%s个网站仍然需要您的注意。"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+msgid "Email address update"
+msgstr "电子邮件地址更新"
+
+msgid "Enabling white-label mode"
+msgstr "启用白标模式"
+
+msgid "End"
+msgstr "终点"
+
+msgid "Enter email address"
+msgstr "请输入邮箱地址"
+
+msgid ""
+"Enter the domain of your website or other websites from where you plan to "
+"promote the %s."
+msgstr "请输入您计划升级%s的网站或其他网站的域。"
+
+msgid ""
+"Enter the email address you've used for the upgrade below and we will resend "
+"you the license key."
+msgstr "请在下面输入您用于升级的电子邮件地址，我们将重新向您发送许可证密钥。"
+
+msgid "Enter the new email address"
+msgstr "输入新的电子邮件地址"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error received from the server:"
+msgstr "从服务器收到错误："
+
+msgid "Expired"
+msgstr "期满"
+
+msgid "Expires in %s"
+msgstr "%s后过期"
+
+msgid "Extra Domains"
+msgstr "额外域"
+
+msgid "Extra domains where you will be marketing the product from."
+msgstr "您将营销产品的额外的网域。"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid ""
+"For compliance with the WordPress.org guidelines, before we start the trial "
+"we ask that you opt in with your user and non-sensitive site information, "
+"allowing the %s to periodically send data to %s to check for version updates "
+"and to validate your trial."
+msgstr ""
+"为了遵守WordPress."
+"org指南，在开始试用之前，我们要求您选择使用您的用户和非敏感站点信息，允许%s定期向%s发送数据以检查版本更新并验证您的试用。"
+
+msgid "Free"
+msgstr "免费的"
+
+msgid "Free Trial"
+msgstr "免费试用"
+
+msgid "Free version"
+msgstr "免费版本"
+
+msgid "Freemius API"
+msgstr "Freemius API"
+
+msgid "Freemius Debug"
+msgstr "Freemius 调试"
+
+msgid ""
+"Freemius SDK couldn't find the plugin's main file. Please contact "
+"sdk@freemius.com with the current error."
+msgstr "Freemius SDK找不到插件的主文件。请关于当前错误与sdk@freemius.com联系。"
+
+msgid "Freemius State"
+msgstr "Freemius 状态"
+
+msgid "Freemius is our licensing and software updates engine"
+msgstr "Freemius是我们的许可和软件更新引擎"
+
+msgid "Full name"
+msgstr "全名"
+
+msgid "Function"
+msgstr "函数"
+
+msgid "Get commission for automated subscription renewals."
+msgstr "获得自动续订的佣金。"
+
+msgid "Get updates for bleeding edge Beta versions of %s."
+msgstr "获取%s的前沿测试版本的更新。"
+
+msgid "Have a license key?"
+msgstr "有许可证密钥吗？"
+
+msgid ""
+"Hey there, did you know that %s has an affiliate program? If you like the %s "
+"you can become our ambassador and earn some cash!"
+msgstr "嘿，你知道%s有会员计划吗？如果您喜欢%s，您可以成为我们的大使并赚取一些现金！"
+
+msgid ""
+"How do you like %s so far? Test all our %s premium features with a %d-day "
+"free trial."
+msgstr "到目前为止，您觉得%s怎么样？测试我们所有的%s高级功能，使用%d天免费试用"
+
+msgid "How to upload and activate?"
+msgstr "如何上传和激活？"
+
+msgid "How will you promote us?"
+msgstr "您将如何推广我们？"
+
+msgid "I Agree - Change User"
+msgstr "我同意 - 更改用户"
+
+msgid "I can't pay for it anymore"
+msgstr "我再也付不起了"
+
+msgid "I couldn't understand how to make it work"
+msgstr "我不明白该怎么做"
+
+msgid "I don't like to share my information with you"
+msgstr "我不想和你分享我的信息"
+
+msgid "I found a better %s"
+msgstr "我找到了更好的%s"
+
+msgid ""
+"I have upgraded my account but when I try to Sync the License, the plan "
+"remains %s."
+msgstr "我已经升级了我的帐户，但是当我尝试同步许可证时，计划仍然是%s。"
+
+msgid "I no longer need the %s"
+msgstr "我不再需要%s"
+
+msgid "I only needed the %s for a short period"
+msgstr "我只需要在短时间内使用%s"
+
+msgid "ID"
+msgstr "ID"
+
+msgid ""
+"If this is a long term duplicate, to keep automatic updates and paid "
+"functionality after %s, please %s."
+msgstr "如果这是长期副本，要在 %s 之后保留自动更新和付费功能，请 %s。"
+
+msgid ""
+"If you click it, this decision will be delegated to the sites administrators."
+msgstr "如果单击它，此决定将委派给站点管理员。"
+
+msgid "If you have a moment, please let us know why you are %s"
+msgstr "如果您有空，请告诉我们您为什么是%s"
+
+msgid ""
+"If you would like to give up the ownership of the %s's account to %s click "
+"the Change Ownership button."
+msgstr "如果要将%s帐户的所有权放弃给%s，请单击“更改所有权”按钮。"
+
+msgid ""
+"If you'd like to use the %s on those sites, please enter your license key "
+"below and click the activation button."
+msgstr "如果要在这些站点上使用%s，请在下面输入许可证密钥，然后单击“激活”按钮。"
+
+msgid "Important Upgrade Notice:"
+msgstr "重要升级通知："
+
+msgid "In %s"
+msgstr "在%s中"
+
+msgid ""
+"In case you are NOT planning on using this %s on this site (or any other "
+"site) - would you like to cancel the %s as well?"
+msgstr "如果您不打算在此站点（或任何其他站点）上使用此%s，是否也要取消%s？"
+
+msgid "Install Free Version Now"
+msgstr "立即安装免费版本"
+
+msgid "Install Free Version Update Now"
+msgstr "立即安装免费版本更新"
+
+msgid "Install Now"
+msgstr "立即安装"
+
+msgid "Install Update Now"
+msgstr "立即安装更新"
+
+msgid "Installing plugin: %s"
+msgstr "正在安装插件：%s"
+
+msgid "Invalid clone resolution action."
+msgstr "无效的克隆解析操作。"
+
+msgid "Invalid module ID."
+msgstr "模块ID无效。"
+
+msgid "Invalid new user ID or email address."
+msgstr "无效的新用户ID或电子邮件地址。"
+
+msgid "Invalid site details collection."
+msgstr "无效网站详细信息集合。"
+
+msgid "Invoice"
+msgstr "发票"
+
+msgid "Is %2$s a duplicate of %4$s?"
+msgstr "%2$s 是 %4$s 的副本吗？"
+
+msgid "Is %2$s a new website?"
+msgstr "%2$s 是一个新网站吗？"
+
+msgid "Is %2$s the new home of %4$s?"
+msgstr "%2$s 是 %4$s 的新主页吗？"
+
+msgid "Is Active"
+msgstr "处于活动状态"
+
+msgid ""
+"Is this your client's site? %s if you wish to hide sensitive info like your "
+"email, license key, prices, billing address & invoices from the WP Admin."
+msgstr "这是您客户的网站吗？如果您希望从WP管理员那里隐藏敏感信息，例如电子邮件，许可证密钥，价格，账单地址和发票，则为%s。"
+
+msgid "It looks like the license could not be activated."
+msgstr "似乎无法激活许可证。"
+
+msgid "It looks like the license deactivation failed."
+msgstr "许可证停用似乎失败。"
+
+msgid ""
+"It looks like you are not in trial mode anymore so there's nothing to cancel "
+":)"
+msgstr "看起来您不再处于试用模式，所以没有什么需要取消的：）"
+
+msgid ""
+"It looks like you are still on the %s plan. If you did upgrade or change "
+"your plan, it's probably an issue on our side - sorry."
+msgstr "看来你还在%s计划中。如果你确实升级或更改了计划，这可能是我们这边的问题-对不起。"
+
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "您的站点当前似乎没有活动许可证。"
+
+msgid "It requires license activation."
+msgstr "它需要许可证激活。"
+
+msgid ""
+"It seems like one of the authentication parameters is wrong. Update your "
+"Public Key, Secret Key & User ID, and try again."
+msgstr "似乎身份验证参数中的一个不正确。请更新您的公钥、密钥和用户ID，然后重试。"
+
+msgid "It's a temporary %s - I'm troubleshooting an issue"
+msgstr "这是一个临时的 %s - 我正在解决一个问题"
+
+msgid "It's not what I was looking for"
+msgstr "这不是我要找的"
+
+msgid "Join the Beta program"
+msgstr "加入测试计划"
+
+msgid ""
+"Just letting you know that the add-ons information of %s is being pulled "
+"from an external server."
+msgstr "只是让您知道%s的加载项信息是从外部服务器提取的。"
+
+msgid "Key"
+msgstr "钥匙"
+
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "请分享什么地方出了错，以便我们可以为未来的用户修复它..."
+
+msgid "Kindly tell us the reason so we can improve."
+msgstr "请告诉我们原因以便我们改进。"
+
+msgid "Last"
+msgstr "最后"
+
+msgid "Last Updated"
+msgstr "上次更新时间"
+
+msgid "Last license"
+msgstr "最后一个许可证"
+
+msgid "Latest Free Version Installed"
+msgstr "已安装最新的免费版本"
+
+msgid "Latest Version Installed"
+msgstr "已安装最新版本"
+
+msgid "Learn more"
+msgstr "了解更多"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "License Agreement"
+msgstr "许可协议"
+
+msgid "License ID"
+msgstr "许可证ID"
+
+msgid "License Key"
+msgstr "许可证密钥"
+
+msgid "License issues?"
+msgstr "许可问题？"
+
+msgid "License key"
+msgstr "许可证密钥"
+
+msgid "License key is empty."
+msgstr "许可证密钥为空。"
+
+msgid "Lifetime"
+msgstr "终身"
+
+msgid "Like the %s? Become our ambassador and earn cash ;-)"
+msgstr "喜欢%s吗？成为我们的大使并赚取现金 ;-)"
+
+msgid "Load DB Option"
+msgstr "加载数据库选项"
+
+msgid "Localhost"
+msgstr "本机"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Logger"
+msgstr "记录器"
+
+msgid "Long-Term Duplicate"
+msgstr "长期副本"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Method"
+msgstr "方法"
+
+msgid "Migrate"
+msgstr "迁移"
+
+msgid "Migrate License"
+msgstr "迁移许可证"
+
+msgid "Migrate Options to Network"
+msgstr "将选项迁移到网络"
+
+msgid "Mobile apps"
+msgstr "移动应用程序"
+
+msgid "Module"
+msgstr "模块"
+
+msgid "Module Path"
+msgstr "模块路径"
+
+msgid "Module Type"
+msgstr "模块类型"
+
+msgid "More information about %s"
+msgstr "有关%s的详细信息"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Network Blog"
+msgstr "网络博客"
+
+msgid "Network User"
+msgstr "网络用户"
+
+msgid "New"
+msgstr "新的"
+
+msgid "New Version Available"
+msgstr "新版本可用"
+
+msgid "New Website"
+msgstr "新网站"
+
+msgid "Newer Free Version (%s) Installed"
+msgstr "已安装较新的免费版本（%s）"
+
+msgid "Newer Version (%s) Installed"
+msgstr "安装了较新的版本（%s）"
+
+msgid "Newsletter"
+msgstr "新闻稿"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "No"
+msgstr "不"
+
+msgid "No - only move this site's data to %s"
+msgstr "否 - 仅将此站点的数据移动到 %s"
+
+msgid "No ID"
+msgstr "无 ID"
+
+msgid "No commitment for %s - cancel anytime"
+msgstr "%s没有承诺-随时取消"
+
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "%s天没有承诺-随时取消！"
+
+msgid "No credit card required"
+msgstr "不需要信用卡"
+
+msgid "No expiration"
+msgstr "永不过期"
+
+msgid "Non-expiring"
+msgstr "非到期"
+
+msgid "None of the %s's plans supports a trial period."
+msgstr "%s的任何计划都不支持试用期。"
+
+msgid "O.K"
+msgstr "好"
+
+msgid ""
+"Once your license expires you can still use the Free version but you will "
+"NOT have access to the %s features."
+msgstr "许可证过期后，您仍然可以使用免费版本，但您将无法使用%s功能。"
+
+msgid ""
+"Once your license expires you will no longer be able to use the %s, unless "
+"you activate it again with a valid premium license."
+msgstr "许可证过期后，您将无法再使用%s，除非您使用有效的高级许可证再次激活。"
+
+msgid "Opt In"
+msgstr "选择加入"
+
+msgid "Opt Out"
+msgstr "选择退出"
+
+msgid "Opt in to make \"%s\" better!"
+msgstr "选择加入以使“%s”更好！"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Owner Email"
+msgstr "所有者电子邮件"
+
+msgid "Owner ID"
+msgstr "所有者 ID"
+
+msgid "Owner Name"
+msgstr "所有者名称"
+
+msgid "PCI compliant"
+msgstr "PCI兼容"
+
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "付费附加组件必须部署到Freemius。"
+
+msgid "PayPal account email address"
+msgstr "PayPal 帐户电子邮件地址"
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Payouts are in USD and processed monthly via PayPal."
+msgstr "付款以美元为单位，每月通过 PayPal 处理。"
+
+msgid "Plan"
+msgstr "计划"
+
+msgid "Plan %s do not exist, therefore, can't start a trial."
+msgstr "计划%s不存在，因此无法启动试用。"
+
+msgid "Plan %s does not support a trial period."
+msgstr "计划%s不支持试用期。"
+
+msgid "Plan ID"
+msgstr "计划ID"
+
+msgid "Please contact us here"
+msgstr "请在这里联系我们"
+
+msgid "Please contact us with the following message:"
+msgstr "请通过以下信息与我们联系："
+
+msgid "Please download %s."
+msgstr "请下载%s。"
+
+msgid ""
+"Please enter the license key that you received in the email right after the "
+"purchase:"
+msgstr "请输入购买后在电子邮件中收到的许可证密钥："
+
+msgid "Please enter the license key to enable the debug mode:"
+msgstr "请输入许可证密钥以启用调试模式："
+
+msgid ""
+"Please feel free to provide any relevant website or social media statistics, "
+"e.g. monthly unique site visits, number of email subscribers, followers, etc."
+" (we will keep this information confidential)."
+msgstr "请随时提供任何相关的网站或社交媒体统计数据，例如每月独特的网站访问量、电子邮件订户数量、关注者数量等（我们将对这些信息保密）。"
+
+msgid "Please follow these steps to complete the upgrade"
+msgstr "请按照以下步骤完成升级"
+
+msgid ""
+"Please let us know if you'd like us to contact you for security & feature "
+"updates, educational content, and occasional offers:"
+msgstr "如果您希望我们与您联系以获取安全和功能更新、教育内容和偶尔的优惠，请告知我们："
+
+msgid ""
+"Please note that we will not be able to grandfather outdated pricing for "
+"renewals/new subscriptions after a cancellation. If you choose to renew the "
+"subscription manually in the future, after a price increase, which typically "
+"occurs once a year, you will be charged the updated price."
+msgstr "请注意，取消后，我们将无法获取更新/新订阅的过期定价。如果您选择在未来手动续订，在价格上涨后，将向您收取更新后的价格。"
+
+msgid ""
+"Please provide details on how you intend to promote %s (please be as "
+"specific as possible)."
+msgstr "请提供有关您打算如何推广%s的详细信息（请尽可能具体）。"
+
+msgid "Please provide your full name."
+msgstr "请提供您的全名。"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Plugin Homepage"
+msgstr "插件主页"
+
+msgid "Plugin ID"
+msgstr "插件ID"
+
+msgid "Plugin Install"
+msgstr "插件安装"
+
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "变更日志"
+
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "说明"
+
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "常见问题解答"
+
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "功能和定价"
+
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "安装"
+
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "其他注意事项"
+
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "评论"
+
+msgid ""
+"Plugin is a \"Serviceware\" which means it does not have a premium code "
+"version."
+msgstr "插件是一个“服务软件”，这意味着它没有高级代码版本。"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Plugins & Themes Sync"
+msgstr "插件和主题同步"
+
+msgid "Premium"
+msgstr "高级版本"
+
+msgid "Premium %s version was successfully activated."
+msgstr "高级%s版本已成功激活。"
+
+msgid "Premium add-on version already installed."
+msgstr "已安装高级加载项版本。"
+
+msgid "Premium version"
+msgstr "高级版"
+
+msgid "Premium version already active."
+msgstr "高级版本已激活。"
+
+msgid "Pricing"
+msgstr "定价"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Proceed"
+msgstr "继续"
+
+msgid "Process ID"
+msgstr "进程 ID"
+
+msgid "Processing"
+msgstr "处理"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Program Summary"
+msgstr "计划摘要"
+
+msgid "Promotion methods"
+msgstr "推广方式"
+
+msgid "Province"
+msgstr "省"
+
+msgid "Public Key"
+msgstr "公钥"
+
+msgid "Purchase License"
+msgstr "购买许可证"
+
+msgid "Purchase More"
+msgstr "购买更多"
+
+msgid "Quick Feedback"
+msgstr "快速反馈"
+
+msgid "Quota"
+msgstr "配额"
+
+msgid "Re-send activation email"
+msgstr "重新发送激活电子邮件"
+
+msgid ""
+"Refer new customers to our %s and earn %s commission on each successful sale "
+"you refer!"
+msgstr "向新客户介绍我们的%s，并在每次销售成功时获得%s佣金！"
+
+msgid "Renew license"
+msgstr "更新许可证"
+
+msgid "Renew your license now"
+msgstr "立即续订许可证"
+
+msgid "Requests"
+msgstr "请求"
+
+msgid "Requires WordPress Version"
+msgstr "需要WordPress版本"
+
+msgid "Reset Deactivation Snoozing"
+msgstr "复位失活休眠"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "SDK"
+msgstr "软件开发工具包"
+
+msgid "SDK Path"
+msgstr "SDK 路径"
+
+msgid "Save %s"
+msgstr "保存%s"
+
+msgid "Saved"
+msgstr "已保存"
+
+msgid "Scheduled Crons"
+msgstr "计划的 Crons"
+
+msgid "Screenshots"
+msgstr "屏幕截图"
+
+msgid "Search by address"
+msgstr "按网址搜索"
+
+msgid "Secret Key"
+msgstr "密钥"
+
+msgid "Secure HTTPS %s page, running from an external domain"
+msgstr "从外部域运行的安全HTTPS%s页面"
+
+msgid ""
+"Seems like we are having some temporary issue with your subscription "
+"cancellation. Please try again in few minutes."
+msgstr "似乎关于您的订阅取消发生了一些暂时的问题。请过几分钟再试一次。"
+
+msgid ""
+"Seems like we are having some temporary issue with your trial cancellation. "
+"Please try again in few minutes."
+msgstr "看来关于您的试用取消发生了一些暂时的问题。请过几分钟再试一次。"
+
+msgid "Seems like you got the latest release."
+msgstr "好像你得到了最新的版本。"
+
+msgid "Select Country"
+msgstr "选择国家"
+
+msgid "Send License Key"
+msgstr "发送许可证密钥"
+
+msgid "Set DB Option"
+msgstr "设置数据库选项"
+
+msgid "Simulate Network Upgrade"
+msgstr "模拟试用推广"
+
+msgid "Simulate Trial Promotion"
+msgstr "模拟试用推广"
+
+msgid "Single Site License"
+msgstr "单站点许可证"
+
+msgid "Site ID"
+msgstr "站点 ID"
+
+msgid "Site successfully opted in."
+msgstr "站点已成功选择加入。"
+
+msgid "Sites"
+msgstr "站点"
+
+msgid "Skip & %s"
+msgstr "跳过&%s"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Snooze & %s"
+msgstr "暂停 & %s"
+
+msgid "So you can reuse the license when the %s is no longer active."
+msgstr "因此，当%s不再活动时，您可以重新使用许可证。"
+
+msgid "Social media (Facebook, Twitter, etc.)"
+msgstr "社交媒体（脸书、推特等）"
+
+msgid ""
+"Sorry for the inconvenience and we are here to help if you give us a chance."
+msgstr "很抱歉给您带来不便，如果您能给我们一个机会，我们将竭诚为您服务。"
+
+msgid ""
+"Sorry, we could not complete the email update. Another user with the same "
+"email is already registered."
+msgstr "对不起，我们无法完成电子邮件更新。具有相同电子邮件的另一个用户已注册。"
+
+msgid "Start"
+msgstr "起点"
+
+msgid "Start Debug"
+msgstr "开始调试"
+
+msgid "Start Trial"
+msgstr "开始试用"
+
+msgid "Start my free %s"
+msgstr "开始我的免费%s"
+
+msgid "State"
+msgstr "国家"
+
+msgid "Stop Debug"
+msgstr "停止调试"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Submit & %s"
+msgstr "提交 & %s"
+
+msgid "Subscription"
+msgstr "订阅"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Support Forum"
+msgstr "支持论坛"
+
+msgid "Sync Data From Server"
+msgstr "从服务器得到的同步数据"
+
+msgid "Tax / VAT ID"
+msgstr "税务/增值税ID"
+
+msgid "Terms of Service"
+msgstr "服务条款"
+
+msgid ""
+"Thank you for applying for our affiliate program, unfortunately, we've "
+"decided at this point to reject your application. Please try again in 30 "
+"days."
+msgstr "感谢您申请我们的推广联盟计划，不幸的是，我们现在决定拒绝您的申请。请在30天后再试。"
+
+msgid ""
+"Thank you for applying for our affiliate program, we'll review your details "
+"during the next 14 days and will get back to you with further information."
+msgstr "感谢您申请我们的推广联盟计划，我们将在未来14天内审查您的详细信息，并将与您联系提供更多的信息。"
+
+msgid "Thank you so much for using %s and its add-ons!"
+msgstr "非常感谢您使用%s及其附加组件！"
+
+msgid "Thank you so much for using %s!"
+msgstr "非常感谢您使用%s！"
+
+msgid "Thank you so much for using our products!"
+msgstr "非常感谢您使用我们的产品！"
+
+msgid "Thank you!"
+msgstr "谢谢您！"
+
+msgid "Thanks %s!"
+msgstr "谢谢%s！"
+
+msgid ""
+"Thanks for confirming the ownership change. An email was just sent to %s for "
+"final approval."
+msgstr "感谢您确认所有权变更。刚刚向%s发送了一封电子邮件以获得最终批准。"
+
+msgid "The %s broke my site"
+msgstr "%s破坏了我的网站"
+
+msgid "The %s didn't work"
+msgstr "%s不起作用"
+
+msgid "The %s didn't work as expected"
+msgstr "%s没有按预期工作"
+
+msgid "The %s is great, but I need specific feature that you don't support"
+msgstr "%s很好，但我需要您不支持的特定功能"
+
+msgid "The %s is not working"
+msgstr "%s不起作用"
+
+msgid "The %s suddenly stopped working"
+msgstr "%s突然停止工作"
+
+msgid "The following products'"
+msgstr "以下产品"
+
+msgid ""
+"The installation process has started and may take a few minutes to complete. "
+"Please wait until it is done - do not refresh this page."
+msgstr "安装过程已开始，可能需要几分钟才能完成。请等待完成-不要刷新此页。"
+
+msgid ""
+"The products below have been placed into safe mode because we noticed that "
+"%2$s is an exact copy of %3$s:%1$s"
+msgstr "以下产品已进入安全模式，因为我们注意到 %3$s 是 %1$s 的精确副本：%2$s"
+
+msgid ""
+"The products below have been placed into safe mode because we noticed that "
+"%2$s is an exact copy of these sites:%3$s%1$s"
+msgstr "以下产品已进入安全模式，因为我们注意到 %3$s 是这些网站的精确副本：%1$s%2$s"
+
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "远程插件包不包含具有所需段塞的文件夹，重命名失败。"
+
+msgid "The upgrade of %s was successfully completed."
+msgstr "%s的升级已成功完成。"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Theme Switch"
+msgstr "主题切换"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "There is a %s of %s available."
+msgstr "有一个%s的%s可用。"
+
+msgid "There is a new version of %s available."
+msgstr "有新版本的%s可用。"
+
+msgid ""
+"This plugin has not been marked as compatible with your version of WordPress."
+msgstr "此插件尚未标记为与您的WordPress版本兼容。"
+
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "此插件尚未用当前版本的WordPress进行测试。"
+
+msgid "Timestamp"
+msgstr "时间戳"
+
+msgid "Title"
+msgstr "标题"
+
+msgid ""
+"To enter the debug mode, please enter the secret key of the license owner "
+"(UserID = %d), which you can find in your \"My Profile\" section of your "
+"User Dashboard:"
+msgstr "要进入调试模式，请输入许可证所有者的密钥（用户ID=%d），您可以在用户仪表板的“我的配置文件”部分找到该密钥："
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Town"
+msgstr "城镇"
+
+msgid "Trial"
+msgstr "审判"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "无法连接到文件系统。请确认您的凭据。"
+
+msgid "Unlimited Licenses"
+msgstr "无限许可证"
+
+msgid "Unlimited Updates"
+msgstr "无限更新"
+
+msgid "Unlimited commissions."
+msgstr "佣金无上限。"
+
+msgid "Up to %s Sites"
+msgstr "最多%s个站点"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update License"
+msgstr "更新许可证"
+
+msgid "Updates, announcements, marketing, no spam"
+msgstr "更新、公告、营销，无垃圾邮件"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Upload and activate the downloaded version"
+msgstr "上传并激活下载的版本"
+
+msgctxt ""
+"Used to express elation, enthusiasm, or triumph (especially in electronic "
+"communication)."
+msgid "W00t"
+msgstr "W00t"
+
+msgid "User Dashboard"
+msgstr "用户仪表盘"
+
+msgid "User ID"
+msgstr "用户 ID"
+
+msgid "User key"
+msgstr "用户密钥"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Value"
+msgstr "值"
+
+msgid ""
+"Verification mail was just sent to %s. If you can't find it after 5 min, "
+"please check your spam box."
+msgstr "验证邮件刚刚发送到%s。如果5分钟后找不到，请检查垃圾邮件框。"
+
+msgid "Verified"
+msgstr "已验证的"
+
+msgid "Verify Email"
+msgstr "验证电子邮件"
+
+msgid "Version %s was released."
+msgstr "版本%s已发布。"
+
+msgid "View details"
+msgstr "查看详细信息"
+
+msgid "View paid features"
+msgstr "查看付费功能"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid ""
+"We can't see any active licenses associated with that email address, are you "
+"sure it's the right address?"
+msgstr "我们看不到与该电子邮件地址关联的任何活动许可证，您确定它是正确的地址吗？"
+
+msgid ""
+"We couldn't find your email address in the system, are you sure it's the "
+"right address?"
+msgstr "我们在系统中找不到您的电子邮件地址，您确定地址正确吗？"
+
+msgid ""
+"We couldn't load the add-ons list. It's probably an issue on our side, "
+"please try to come back in few minutes."
+msgstr "无法加载加载项列表。这可能是我们这边的问题，请几分钟后再来。"
+
+msgid "We made a few tweaks to the %s, %s"
+msgstr "我们对%s，%s进行了一些调整"
+
+msgid "We're excited to introduce the Freemius network-level integration."
+msgstr "我们很高兴介绍Freemius网络级集成。"
+
+msgid "Website, email, and social media statistics (optional)"
+msgstr "网站、电子邮件和社交媒体统计（可选）"
+
+msgid "Welcome to %s! To get started, please enter your license key:"
+msgstr "欢迎使用%s！首先，请输入您的许可证密钥："
+
+msgid "What did you expect?"
+msgstr "你期望什么？"
+
+msgid "What feature?"
+msgstr "什么功能？"
+
+msgid "What is your %s?"
+msgstr "你的%s是什么？"
+
+msgid "What price would you feel comfortable paying?"
+msgstr "你愿意付出什么价钱？"
+
+msgid "What you've been looking for?"
+msgstr "你在找什么？"
+
+msgid "What's the %s's name?"
+msgstr "%s的名字是什么？"
+
+msgid "Where are you going to promote the %s?"
+msgstr "您打算在哪里推广%s？"
+
+msgid "WordPress.org Plugin Page"
+msgstr "WordPress.org 插件页面"
+
+msgid "Would you like to merge %s into %s?"
+msgstr "要将 %s 合并到 %s 中吗？"
+
+msgid "Would you like to proceed with the update?"
+msgstr "是否继续更新？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes - %s"
+msgstr "是-%s"
+
+msgid "Yes - both addresses are mine"
+msgstr "是的 - 两个地址都是我的"
+
+msgid "Yes - move all my data and assets from %s to %s"
+msgstr "是 - 将我的所有数据和资产从 %s 移至 %s"
+
+msgid ""
+"Yes, %%2$s is replacing %%4$s. I would like to migrate my %s from %%4$s to "
+"%%2$s."
+msgstr "是的，%%2$s 正在替换 %%4$s。我想将我的 %s 从 %%4$s 迁移到 %%2$s。"
+
+msgid ""
+"Yes, %2$s is a duplicate of %4$s for the purpose of testing, staging, or "
+"development."
+msgstr "是的，%2$s 是 %4$s 的副本，用于测试、暂存或开发。"
+
+msgid "Yes, %2$s is a new and different website that is separate from %4$s."
+msgstr "是的，%2$s 是一个与 %4$s 不同的新网站。"
+
+msgid "You already utilized a trial before."
+msgstr "您以前已经试用过。"
+
+msgid ""
+"You are 1-click away from starting your %1$s-day free trial of the %2$s plan."
+msgstr "您只需单击一次就可以开始%1$s天的%2$s计划免费试用。"
+
+msgid "You are all good!"
+msgstr "你们都很好！"
+
+msgid "You are already running the %s in a trial mode."
+msgstr "您已经在试用模式下运行%s。"
+
+msgid "You are just one step away - %s"
+msgstr "你离%s只差一步。"
+
+msgid ""
+"You can still enjoy all %s features but you will not have access to %s "
+"security & feature updates, nor support."
+msgstr "您仍然可以享受所有%s功能，但您将无法获得%s安全和功能更新以及支持服务。"
+
+msgid "You do not have a valid license to access the premium version."
+msgstr "您没有访问高级版本的有效许可证。"
+
+msgid "You have a %s license."
+msgstr "您有%s许可证。"
+
+msgid "You have purchased a %s license."
+msgstr "您购买了 %s 许可证。"
+
+msgid "You have successfully updated your %s."
+msgstr "您已成功更新%s。"
+
+msgid "You marked this website, %s, as a temporary duplicate of %s."
+msgstr "您将此网站 %s 标记为 %s 的临时副本。"
+
+msgid "You marked this website, %s, as a temporary duplicate of these sites"
+msgstr "您将此网站 %s 标记为这些网站的临时副本"
+
+msgid ""
+"You might have missed it, but you don't have to share any data and can just "
+"%s the opt-in."
+msgstr "您可能错过了，但您不必共享任何数据，只需选择%s即可。"
+
+msgid ""
+"You've already opted-in to our usage-tracking, which helps us keep improving "
+"the %s."
+msgstr "您已经选择加入我们的使用情况跟踪，这有助于我们不断改进%s。"
+
+msgid ""
+"You've already opted-in to our usage-tracking, which helps us keep improving "
+"them."
+msgstr "您已经选择了我们的使用情况跟踪，这有助于我们不断改进它们。"
+
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "%s加载项计划已成功升级。"
+
+msgid "Your %s free trial was successfully cancelled."
+msgstr "您的%s免费试用已成功取消。"
+
+msgid ""
+"Your %s license was flagged as white-labeled to hide sensitive information "
+"from the WP Admin (e.g. your email, license key, prices, billing address & "
+"invoices). If you ever wish to revert it back, you can easily do it through "
+"your %s. If this was a mistake you can also %s."
+msgstr ""
+"您的%s许可证被标记为白标，以对WP管理员隐藏敏感信息（例如，您的电子邮件，许可证密钥，价格，账单地址和发票）。如果您希望将其还原，则可以通过%s轻松完成。如果这是一个错误，您也可以%s。"
+
+msgid "Your %s license was successfully deactivated."
+msgstr "您的%s许可证已成功停用。"
+
+msgid "Your account was successfully activated with the %s plan."
+msgstr "您的帐户已用%s计划成功激活。"
+
+msgid ""
+"Your affiliate application for %s has been accepted! Log in to your "
+"affiliate area at: %s."
+msgstr "您的%s会员申请已被接受！登录到您的分支区域，地址为%s。"
+
+msgid "Your affiliation account was temporarily suspended."
+msgstr "您的会员帐户已暂时挂起。"
+
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "你的电子邮件已被成功验证-你太棒了！"
+
+msgid ""
+"Your free trial has expired. %1$sUpgrade now%2$s to continue using the %3$s "
+"without interruptions."
+msgstr "您的免费试用已过期。%1$s立即升级%2$s以继续使用%3$s而不中断。"
+
+msgid ""
+"Your free trial has expired. You can still continue using all our free "
+"features."
+msgstr "您的免费试用已过期。您仍然可以继续使用我们所有的免费功能。"
+
+msgid ""
+"Your license has been cancelled. If you think it's a mistake, please contact "
+"support."
+msgstr "你的许可证被取消了。如果您认为这是一个错误，请联系支持人员。"
+
+msgid ""
+"Your license has expired. %1$sUpgrade now%2$s to continue using the %3$s "
+"without interruptions."
+msgstr "您的许可证过期了。%1$s立即升级%2$s以继续使用%3$s而不中断。"
+
+msgid ""
+"Your license has expired. You can still continue using all the %s features, "
+"but you'll need to renew your license to continue getting updates and "
+"support."
+msgstr "您的许可证过期了。您仍然可以继续使用所有%s功能，但您需要续订许可证才能继续获取更新和支持。"
+
+msgid ""
+"Your license has expired. You can still continue using the free %s forever."
+msgstr "您的许可证过期了。您仍然可以继续永远使用免费的%s。"
+
+msgid "Your license was successfully activated."
+msgstr "您的许可证已成功激活。"
+
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "您的许可证已成功停用，您回到了%s计划。"
+
+msgid "Your name was successfully updated."
+msgstr "您的姓名已成功更新。"
+
+msgid "Your plan was successfully activated."
+msgstr "您的计划已成功激活。"
+
+msgid "Your plan was successfully changed to %s."
+msgstr "您的计划已成功更改为%s。"
+
+msgid "Your plan was successfully upgraded."
+msgstr "您的计划已成功升级。"
+
+msgid ""
+"Your subscription was successfully cancelled. Your %s plan license will "
+"expire in %s."
+msgstr "您的订阅已成功取消。您的%s计划许可证将在%s后过期。"
+
+msgid "Your trial has been successfully started."
+msgstr "您的试用已成功开始。"
+
+msgid "ZIP / Postal Code"
+msgstr "邮政编码"
+
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "就在"
+
+msgid "activate a license here"
+msgstr "在此处激活许可证"
+
+msgctxt "active add-on"
+msgid "Active"
+msgstr "活跃的"
+
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "没有%s，%s无法运行。"
+
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "没有插件，%s无法运行。"
+
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "抬头"
+
+msgid "allow"
+msgstr "允许"
+
+msgctxt "as 5 licenses left"
+msgid "%s left"
+msgstr "剩下%s"
+
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "正在激活"
+
+msgctxt "as annual period"
+msgid "year"
+msgstr "年"
+
+msgctxt "as application program interface"
+msgid "API"
+msgstr "API"
+
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "关闭"
+
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "调试"
+
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "恭喜"
+
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "此路不通"
+
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "已连接"
+
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "下载最新版本"
+
+msgctxt "as download latest version"
+msgid "Download Latest Free Version"
+msgstr "下载最新免费版本"
+
+msgctxt "as every month"
+msgid "Monthly"
+msgstr "每月"
+
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "到期"
+
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "路径"
+
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "发送电子邮件"
+
+msgctxt "as monthly period"
+msgid "mo"
+msgstr "瞬间"
+
+msgctxt "as once a year"
+msgid "Annual"
+msgstr "每年"
+
+msgctxt "as once a year"
+msgid "Annually"
+msgstr "每年"
+
+msgctxt "as once a year"
+msgid "Once"
+msgstr "一次"
+
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "计划"
+
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "没有秘密"
+
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK 版本"
+
+msgctxt "as software license"
+msgid "License"
+msgstr "许可证"
+
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "同步"
+
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "同步许可证"
+
+msgctxt "as the plugin author"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "as turned off"
+msgid "Off"
+msgstr "关闭"
+
+msgctxt "as turned on"
+msgid "On"
+msgstr "打开"
+
+msgid "based on %s"
+msgstr "基于%s"
+
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "开始免费试用"
+
+msgctxt "close a window"
+msgid "Dismiss"
+msgstr "关闭"
+
+msgctxt "close window"
+msgid "Dismiss"
+msgstr "关闭"
+
+msgid "data"
+msgstr "数据"
+
+msgid "days"
+msgstr "天"
+
+msgid "deactivating"
+msgstr "停用中"
+
+msgid "delegate"
+msgstr "代表"
+
+msgid ""
+"do %sNOT%s send me security & feature updates, educational content and "
+"offers."
+msgstr "不%s要%s向我发送安全和功能更新、教育内容和服务。"
+
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s计划"
+
+msgctxt "e.g. billed monthly"
+msgid "Billed %s"
+msgstr "帐单%s"
+
+msgctxt "e.g. the best product"
+msgid "Best"
+msgstr "最好的"
+
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "嘿"
+
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "哎呀"
+
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "嘿%s，"
+
+msgid "hour"
+msgstr "小时"
+
+msgid "hours"
+msgstr "小时"
+
+msgctxt "installed add-on"
+msgid "Installed"
+msgstr "安装"
+
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "哟哈"
+
+msgid "license"
+msgstr "许可证"
+
+msgctxt "like websites"
+msgid "Sites"
+msgstr "站点"
+
+msgctxt "milliseconds"
+msgid "ms"
+msgstr "毫秒"
+
+msgid "new Beta version"
+msgstr "新测试版"
+
+msgid "new version"
+msgstr "新版本"
+
+msgid "not verified"
+msgstr "未验证"
+
+msgctxt "noun"
+msgid "Price"
+msgstr "价格"
+
+msgctxt "noun"
+msgid "Pricing"
+msgstr "定价"
+
+msgid "optional"
+msgstr "可选的"
+
+msgctxt "product version"
+msgid "Version"
+msgstr "版本"
+
+msgid "products"
+msgstr "产品"
+
+msgid "revert it now"
+msgstr "现在还原"
+
+msgctxt "seconds"
+msgid "sec"
+msgstr "秒"
+
+msgid "seems like the key you entered doesn't match our records."
+msgstr "好像你输入的钥匙和我们的记录不符。"
+
+msgid "send me security & feature updates, educational content and offers."
+msgstr "请给我发送安全和功能更新，教育内容和优惠。"
+
+msgid "skip"
+msgstr "跳过"
+
+msgctxt ""
+"something somebody says when they are thinking about what you have just said."
+msgid "Hmm"
+msgstr "嗯"
+
+msgid "start the trial"
+msgstr "开始试用"
+
+msgid "subscription"
+msgstr "订阅"
+
+msgid "switching"
+msgstr "切换中"
+
+msgid "the above-mentioned sites"
+msgstr "上述网站"
+
+msgid "the latest %s version here"
+msgstr "这儿有最新的%s版本"
+
+msgid "trial"
+msgstr "试用"
+
+msgctxt "trial period"
+msgid "Trial"
+msgstr "试用"
+
+msgctxt "verb"
+msgid "Delete"
+msgstr "删除"
+
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "降级"
+
+msgctxt "verb"
+msgid "Edit"
+msgstr "编辑"
+
+msgctxt "verb"
+msgid "Hide"
+msgstr "隐藏"
+
+msgctxt "verb"
+msgid "Opt In"
+msgstr "选择加入"
+
+msgctxt "verb"
+msgid "Opt Out"
+msgstr "选择退出"
+
+msgctxt "verb"
+msgid "Purchase"
+msgstr "购买"
+
+msgctxt "verb"
+msgid "Show"
+msgstr "显示"
+
+msgctxt "verb"
+msgid "Skip"
+msgstr "跳过"
+
+msgctxt "verb"
+msgid "Update"
+msgstr "更新"
+
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "升级"
+
+msgctxt "x-ago"
+msgid "%s ago"
+msgstr "%s以前"
