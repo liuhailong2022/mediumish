@@ -119,6 +119,23 @@
                         'walker'          => new bs4navwalker()
                     ]);
                     ?>
+                    <?php
+                    // 增加用户登录/注册按钮
+                    if ( is_user_logged_in() ) { 
+                        $current_user = wp_get_current_user();
+                        ?>
+                        <div class="user-menu">
+                            <button class="user-dropdown-btn" aria-haspopup="true">
+                                <img src="<?php echo esc_url( get_avatar_url( $current_user->ID ) ); ?>" alt="用户头像" class="user-avatar">
+                            </button>
+                            <div class="user-dropdown-content">
+                                <a href="/account">个人中心</a>
+                                <a href="<?php echo esc_url( wp_logout_url( get_permalink() ) ); ?>">退出</a>
+                            </div>
+                        </div>
+                    <?php } else { ?>
+                        <a href="/login" class="login-button">登录/注册</a>
+                    <?php } ?>
                 </nav>
 
             </div>
