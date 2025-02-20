@@ -99,32 +99,32 @@
             <!-- End Logo -->
 
             <div class="navarea">
-
                 <nav class="navbar navbar-toggleable-sm">
-                    <button class="navbar-toggler collapsed navbar-toggler-right" type="button" data-toggle="collapse" data-target="#bs4navbar" aria-controls="bs4navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler collapsed navbar-toggler-right" type="button" data-toggle="collapse" data-target="#bs4navbar" aria-controls="bs4navbar" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     <span class="navbar-close-icon">X</span>
-                    </button>
-                    <?php
-                    wp_nav_menu([
-                        'menu'            => 'primary',
-                        'theme_location'  => 'primary',
-                        'container'       => 'div',
-                        'container_id'    => 'bs4navbar',
-                        'container_class' => 'collapse navbar-collapse',
-                        'menu_id'         => false,
-                        'menu_class'      => 'navbar-nav col-md-12 justify-content-center',
-                        'depth'           => 2,
-                        'fallback_cb'     => 'bs4navwalker::fallback',
-                        'walker'          => new bs4navwalker()
-                    ]);
-                    ?>
-                    <?php
-                    // 增加用户登录/注册按钮
-                    if ( is_user_logged_in() ) { 
+                </button>
+                <?php
+                wp_nav_menu([
+                    'menu'            => 'primary',
+                    'theme_location'  => 'primary',
+                    'container'       => 'div',
+                    'container_id'    => 'bs4navbar',
+                    'container_class' => 'collapse navbar-collapse',
+                    'menu_id'         => false,
+                    'menu_class'      => 'navbar-nav col-md-12 justify-content-center',
+                    'depth'           => 2,
+                    'fallback_cb'     => 'bs4navwalker::fallback',
+                    'walker'          => new bs4navwalker()
+                ]);
+                ?>
+
+                <!-- 主导航菜单后添加右侧用户区域 -->
+                <div class="nav-right d-flex align-items-center ml-auto">
+                    <?php if ( is_user_logged_in() ) { 
                         $current_user = wp_get_current_user();
-                        ?>
-                        <div class="user-menu">
+                    ?>
+                        <div class="user-menu position-relative">
                             <button class="user-dropdown-btn" aria-haspopup="true">
                                 <img src="<?php echo esc_url( get_avatar_url( $current_user->ID ) ); ?>" alt="用户头像" class="user-avatar">
                             </button>
@@ -136,8 +136,9 @@
                     <?php } else { ?>
                         <a href="/login" class="login-button">登录/注册</a>
                     <?php } ?>
-                </nav>
+                </div>
 
+                </nav>
             </div>
 
         </div>
