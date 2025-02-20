@@ -9,7 +9,7 @@ get_header(); ?>
 
     <section class="recent-posts">
         <div class="section-title">
-            <h5 class="font400 mb-4"><?php echo the_archive_description(); ?></h5>
+            <h5 class="font400 mb-4 text-center" style="font-family: 'KaiTi', '楷体', serif; font-style: italic;"><?php echo the_archive_description(); ?></h5>
             <h2><span><?php the_archive_title() ?></span></h2>
         </div>
 
